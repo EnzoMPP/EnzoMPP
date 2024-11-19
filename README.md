@@ -1,7 +1,7 @@
 <a href="#"><img align="right" height=135 src="./assets/tux.svg"></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EnzoMPP&label=Profile%20views&color=0e75b6&style=flat" alt="EnzoMPP" /> </p>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EnzoMPP&label=Profile%20views&color=0e75b6&style=flat" alt="EnzoMPP" /> </p>
+
 
 ##
 
