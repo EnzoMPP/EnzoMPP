@@ -1,5 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EnzoMPP&label=Profile%20views&color=0e75b6&style=flat" alt="EnzoMPP" /> </p>
-
+<p align="left">
+  <img src="https://img.shields.io/github/profile-views/EnzoMPP?color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ##
 
@@ -7,6 +8,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EnzoMPP&theme=transparent" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnzoMPP&theme=transparent" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnzoMPP&theme=transparent" />
 </p>
@@ -26,5 +28,4 @@
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" height="40" width="40" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" />
   <img align="center" height="40" width="40" src="https://www.svgrepo.com/show/452091/python.svg" />
-  
 </div>
